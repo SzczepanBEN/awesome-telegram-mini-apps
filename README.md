@@ -1,8 +1,18 @@
-# Awesome Telegram Mini Apps
+<div align="center">
+  <a href="https://tg.app">
+    <img src="logo.svg" alt="tg.app" width="220" />
+  </a>
+  <h1>Awesome Telegram Mini Apps</h1>
+  <p>The most complete directory of Telegram Mini Apps — curated by <a href="https://tg.app"><strong>tg.app</strong></a></p>
 
-> A curated list of the best Telegram Mini Apps — games, tools, DeFi, NFT, wallets and more.
+  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+  [![Browse on tg.app](https://img.shields.io/badge/Browse%20on-tg.app-0167FE?style=flat&logoColor=white)](https://tg.app)
+  [![Submit your app](https://img.shields.io/badge/Submit%20your%20app-tg.app-0167FE?style=flat&logoColor=white)](https://tg.app)
+</div>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+---
+
+> **[tg.app](https://tg.app)** is the leading discovery platform for Telegram Mini Apps. Browse ratings, reviews, and categories — or submit your own app to reach thousands of Telegram users.
 
 ## Contents
 
@@ -773,8 +783,28 @@
 
 ## Contributing
 
-Contributions welcome! Please submit a pull request or open an issue.
+Found a Mini App that's missing? Contributions are welcome!
+
+1. Open a pull request adding the app to the correct category
+2. Or submit it directly at **[tg.app](https://tg.app)** — the full-featured directory with ratings, reviews, and screenshots
+
+## About tg.app
+
+**[tg.app](https://tg.app)** is the #1 discovery platform for Telegram Mini Apps. It features:
+
+- Ratings & user reviews for every app
+- Editor's Choice picks and verified badges
+- Category browsing across Games, Finance, NFT, Tools, Wallets, and more
+- App submission for developers
+
+If you build Telegram Mini Apps, **[list your app on tg.app](https://tg.app)** to reach thousands of users.
 
 ---
 
-Data sourced from [tgapp.store](https://tgapp.store)
+<div align="center">
+  <a href="https://tg.app">
+    <img src="logo.svg" alt="tg.app" width="120" />
+  </a>
+  <br/>
+  <sub>Data sourced from <a href="https://tg.app">tg.app</a> — the leading Telegram Mini App directory</sub>
+</div>
