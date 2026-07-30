@@ -305,6 +305,7 @@
 - [Spica 🚀](https://t.me/SpicaFund) — Level Up with Spica Energy Kits, Earn Points and Join Launchpads!
 - [JackDaw Flip](https://t.me/JackdawFlipbot) — JackDaw Flip: An innovative platform for social interaction and income. Join us now!
 - [Classic Multiplayer](https://classic.ton-game.com) — Have fun with friends
+- [Feline Dynasty](https://t.me/FelineDynastyBot?startapp=PL1F5B9A) — Idle cat-breeding game on TON: collect and fuse NFT cats, upgrade a 25-level habitat, trade on the marketplace. Free to start, 14 languages
 
 ## Finance
 
