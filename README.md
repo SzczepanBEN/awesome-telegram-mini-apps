@@ -30,6 +30,12 @@
 
 ## Games
 
+- [Bus Station](https://t.me/busstationgame_bot?startapp=cp_fea1583c71de28b6) — Color-matching bus puzzle with passenger queues; checked preview interface in English.
+- [Tower Defense Bliss](https://t.me/TowerDefenceGame_bot?startapp=cp_c1a746eab7488c69) — Tower-defense game with six tower roles and progressive unlocks; checked interface in Russian.
+- [Living Frontier](https://t.me/ZhivoyRubezhGameBot?start=cp_9640e6c1decf3650) — Mission-based defense game with a four-mission browser demo; checked preview interface in English.
+- [Ant Atelier](https://t.me/antsinthepainting_bot?startapp=cp_fa4b2cb3124a9bc0) — Color-queue painting puzzle with five team slots; checked preview interface in English.
+- [Poker Road](https://t.me/pokerroad_bot?startapp=cp_6297a28d312c796a) — Solo poker journey using virtual chips, with no cash winnings; checked menu in Russian.
+
 - [COYTX](https://t.me/coytxcombot) — Spin the Meme Roulette and Win Meme Coins!
 - [Spin Town](https://t.me/spintownbot/play?startapp=catalog_tonapp) — 🔥Revolutionary Spin to Earn Game 🎰Spin to try your luck and upgrade village! 🚀Join to Airdrop
 - [Mega.bet ⚡️](https://t.me/megabeteng) — 500% Bonus up to €12,000 + 777 FS👌
@@ -417,6 +423,8 @@
 - [MoonPay](https://www.moonpay.com/) — We believe buying crypto shouldn't be so hard
 
 ## Tools
+
+- [LokaSay](https://t.me/LokaSayLanguage_bot?startapp=cp_5c34a231734cc115) — Travel phrase practice for Thai and Bahasa Indonesia, with audio and a Russian interface.
 
 - [UpFin Trading Bot](https://t.me/UpFinChannel) — Your trading AI-assistant — up to 25% weekly profit 💰
 - [LFG AI Market](https://t.me/ruhunt) — The first and only marketplace of turnkey AI solutions in Telegram. Pay in TON.
