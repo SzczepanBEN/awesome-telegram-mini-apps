@@ -305,6 +305,7 @@
 - [Spica 🚀](https://t.me/SpicaFund) — Level Up with Spica Energy Kits, Earn Points and Join Launchpads!
 - [JackDaw Flip](https://t.me/JackdawFlipbot) — JackDaw Flip: An innovative platform for social interaction and income. Join us now!
 - [Classic Multiplayer](https://classic.ton-game.com) — Have fun with friends
+- [Oh My Dog!](https://t.me/OhMyDogMobileBot) — Free idle card RPG: collect dog heroes, auto-battle, PvP arena, bosses and guild battles. Login is automatic through Telegram.
 
 ## Finance
 
