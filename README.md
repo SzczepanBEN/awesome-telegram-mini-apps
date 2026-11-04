@@ -736,6 +736,7 @@
 - [behind](https://t.me/bhndbot) — place for good deals
 - [IrenSystem](https://t.me/demoirensystembot) — Построй свою биржу услуг или маркетплейс с TON Connect.
 - [TONpie](https://tonpie.io) — NEXT GEN forum about TON and web 3.0 with multiple utilities
+- [Flirt Social](https://t.me/TSocialAppBot) - TikTok-style social Mini App for Telegram: short clips, trending creators, AI chat characters. 18+.
 
 ## AI Agents
 
