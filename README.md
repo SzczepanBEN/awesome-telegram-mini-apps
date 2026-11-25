@@ -418,6 +418,7 @@
 
 ## Tools
 
+- [SubRadar](https://t.me/SubRadarAppBot?start=github) — Telegram Mini App with a daily Deals Radar (free subscriptions, free games & promo links; 3 days free + 3 days per friend via referral) plus a no-bank subscription & trial tracker.
 - [UpFin Trading Bot](https://t.me/UpFinChannel) — Your trading AI-assistant — up to 25% weekly profit 💰
 - [LFG AI Market](https://t.me/ruhunt) — The first and only marketplace of turnkey AI solutions in Telegram. Pay in TON.
 - [TonTradingBot](https://t.me/tontrade) — 🤖 The Premier Sniper and Trading Bot on Ton Blockchain 🚀  Supports Multiple Languages!
